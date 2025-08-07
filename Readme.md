@@ -10,7 +10,7 @@ It automates customer engagement using **Salesforce Flows**, **Apex triggers**, 
 ## 🎯 Features
 - **Order Flow** – Automates customer order confirmation emails upon status change from *Pending* to *Confirmed*.
 - **Low Alert Flow** – Sends low stock alert notifications to the inventory manager for timely restocking.
-- **Loyalty Program Flow** – Tracks customer purchases and automatically updates their loyalty status (Silver, Gold, Platinum) based on total spending.
+- **Loyalty Program Flow** – Tracks customer purchases and automatically updates their loyalty status (Gold, Bronze, Silver) based on total spending.
 
 ---
 
