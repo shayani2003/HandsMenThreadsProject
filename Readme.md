@@ -1,4 +1,4 @@
-# HandsMen Customer Management
+# HandsMen Threads Salesforce Project
 
 ## 📌 Project Overview
 This project is developed during my internship to manage **customer records**, **order processing**, and **loyalty program automation** in Salesforce.  
