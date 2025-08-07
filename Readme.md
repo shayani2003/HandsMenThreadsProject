@@ -5,6 +5,7 @@ This project is developed during my internship to manage **customer records**, *
 It automates customer engagement using **Salesforce Flows**, **Apex triggers**, and **Lightning Components** to enhance operational efficiency.
 
 <img align="center" width="100%" src="Screenshots/Custom%20app.png">
+
 ---
 
 ## 🎯 Features
