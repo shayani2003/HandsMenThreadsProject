@@ -27,8 +27,7 @@ It automates customer engagement using **Salesforce Flows**, **Apex triggers**, 
 When the order status is updated from *Pending* to *Confirmed*, the flow triggers an **email confirmation** to the customer with order details.  
 
 **Screenshot:**  
-![Order Flow Screenshot](Screenshots/order_flow.png)
-
+<img align="center" alt="Order Flow" width="100%" src="Screenshot/Order_flow.png">
 ---
 
 ### 2️⃣ Low Alert Flow
