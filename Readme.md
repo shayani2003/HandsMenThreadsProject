@@ -4,6 +4,7 @@
 This project is developed during my internship to manage **customer records**, **order processing**, and **loyalty program automation** in Salesforce.  
 It automates customer engagement using **Salesforce Flows**, **Apex triggers**, and **Lightning Components** to enhance operational efficiency.
 
+<img align="center" width="100%" src="Screenshots/Custom%20app.png">
 ---
 
 ## 🎯 Features
@@ -28,7 +29,7 @@ When the order status is updated from *Pending* to *Confirmed*, the flow trigger
 
 **Screenshot:** 
 
-<img align="center" alt="Order Flow" width="100%" src="Screenshot/Order%20Confirmation%20flow.png">
+<img align="center" alt="Order Flow" width="100%" src="Screenshots/Order%20Confirmation%20flow.png">
 ---
 
 ### 2️⃣ Low Alert Flow
@@ -37,7 +38,7 @@ Automatically monitors product stock levels.
 If the quantity drops below a predefined threshold, a **Low Stock Alert** email is sent to the inventory manager.  
 
 **Screenshot:**  
-<img align="center" alt="Low Stock" width="100%" src="Screenshot/Low%20stock%20alert%20flow.png">
+<img align="center" alt="Low Stock" width="100%" src="Screenshots/Low%20stock%20alert%20flow.png">
 
 ---
 
@@ -47,7 +48,7 @@ Calculates the **total purchase amount** for each customer and updates their **l
   
 
 **Screenshot:**  
-<img align="center" alt="Loyality Program" width="100%" src="Screenshot/Loyality%20update%20flow.png">
+<img align="center" alt="Loyality Program" width="100%" src="Screenshots/Loyality%20update%20flow.png">
 
 ---
 
