@@ -31,6 +31,7 @@ When the order status is updated from *Pending* to *Confirmed*, the flow trigger
 **Screenshot:** 
 
 <img align="center" alt="Order Flow" width="100%" src="Screenshots/Order%20Confirmation%20flow.png">
+
 ---
 
 ### 2️⃣ Low Alert Flow
